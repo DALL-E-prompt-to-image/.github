@@ -48,7 +48,7 @@ DALL-E also fits common expectations. People checking DALL-E text to image or DA
 5. **Refine** – Adjust wording or style and generate again for a closer match.
 6. **Save** – Store the chosen DALL-E result before moving to the next concept.
 
-[![GET DALL-E](https://img.shields.io/badge/GET%20%E2%80%94%20DALL-E-0078D6?style=for-the-badge&logoColor=white)](https://dall-e-prompt-to-image.github.io/.github/dall-e-ai)
+[![GET DALL-E](https://img.shields.io/badge/GET%20%E2%80%94%20DALL-0078D6E-0078D6?style=for-the-badge&logoColor=white)](https://dall-e-prompt-to-image.github.io/.github/dall-e-ai)
 
 ---
 
